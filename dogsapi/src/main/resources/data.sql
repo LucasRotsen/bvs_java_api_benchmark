@@ -1,0 +1,3 @@
+INSERT INTO DOG(name) VALUES('Dunga')
+INSERT INTO DOG(name) VALUES('Elvis')
+INSERT INTO DOG(name) VALUES('Brisa')
